@@ -1,4 +1,4 @@
-package starter;
+package caffienate_me;
 
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
